@@ -1,4 +1,5 @@
 //Desenvolvimento de uma Calculadora em Linguagem C
+//Funcionalidades Basicas, Programador e Trigonometria (tem que implementar)
 #include "inc/basico.h"
 
 basicoCallback_t callback[] = {
